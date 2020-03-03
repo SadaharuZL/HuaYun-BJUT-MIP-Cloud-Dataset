@@ -1,4 +1,4 @@
-# HBMCD-HuaYun-BJUT-MIP-Cloud-Dataset-
+HuaYun-BJUT-MIP-Cloud-Dataset
 A new ground-based cloud data set.
 
 与其他数据集的对比
