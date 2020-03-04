@@ -1,7 +1,7 @@
 # HuaYun-BJUT-MIP-Cloud-Dataset
 ## A new ground-based cloud dataset.
 
-The pictures in HBMCD (HuaYun BJUT MIP Cloud Dataset) are from the proprietary equipment of [HUAYUN SOUDING company](http://www.hysdqx.com/). The HBMCD dataset contains 2543 cloud images. According to the World Meterological Organization’s genera-based classification recommendation, we divide into 11 different categories： Ac, Sc, Ns, Cu, Ci, Cc, Cb, As, No, Cs, St. The criteria for each cloud classification are shown in Table 1. And the number of each cloud category is shown in Tabel 2. We also compared HBMCD with other ground-based cloud datasets, and the results are shown in Figure 1.
+The pictures in HBMCD (HuaYun BJUT MIP Cloud Dataset) are from the proprietary equipment of [HUAYUN SOUDING company](http://www.hysdqx.com/). The HBMCD dataset contains 25119 cloud images. According to the World Meterological Organization’s genera-based classification recommendation, we divide into 11 different categories： Ac, Sc, Ns, Cu, Ci, Cc, Cb, As, No, Cs, St. The criteria for each cloud classification are shown in Table 1. And the number of each cloud category is shown in Tabel 2. We also compared HBMCD with other ground-based cloud datasets, and the results are shown in Figure 1.
 Finally, The classification results of the pictures have been recognized by the professional staff of HUAYUN SOUDING company.
 
 
