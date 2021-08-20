@@ -51,6 +51,7 @@ Fig.1 The comparison of Datasets:(a)HBMCD (b)CCSN (c)HUST (d)SWIMCAT
 You can download HBMCDv1 through [Download_Link](https://github.com/SadaharuZL/HuaYun-BJUT-MIP-Cloud-Dataset/blob/master/Download_Link).
 
 ## Others
-More details about the HBMCD dataset can be found in the following paper and please cite the this paper if you use the HBMCD dataset.(Not yet published)
+More details about the HBMCD dataset can be found in the following paper and please cite the this paper if you use the HBMCD dataset:
+L. Zhang, K. Jia, P. Liu and C. Fang, "Cloud Recognition Based on Lightweight Neural Network," 2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2020, pp. 1033-1042.[Paper Address](https://ieeexplore.ieee.org/document/9306413)
 
 
